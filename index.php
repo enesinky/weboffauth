@@ -30,7 +30,7 @@
           </p>
           <p>
             <span id="ag-button">
-              <a href="https://appgallery.cloud.huawei.com/ag/n/app/C102224447?channelId=OffAuth+Website&id=63cdfc03aed9492494f7dfcb458b2129&s=4E9AB1BA77944A9C446472636045306DA85EDC0033F156B201C539F7D7D3D18A&detailType=0&v=" title="Explore it on AppGaller" target="_blank"><img src="https://huaweimobileservices.com/wp-content/uploads/2020/02/Badge-White-1200x360.png" width="200" /></a>
+              <a href="https://appgallery.cloud.huawei.com/ag/n/app/C102224447?channelId=OffAuth+Website&id=63cdfc03aed9492494f7dfcb458b2129&s=4E9AB1BA77944A9C446472636045306DA85EDC0033F156B201C539F7D7D3D18A&detailType=0&v=" title="Explore it on AppGallery" target="_blank"><img src="https://huaweimobileservices.com/wp-content/uploads/2020/02/Badge-White-1200x360.png" width="200" /></a>
             </span>
             <span id="apk-button" style="display: none">
               <button type="button" class="btn-big" onclick="javascript: DownloadAPK();" />
