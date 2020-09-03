@@ -18,8 +18,8 @@ Through mobile app, visitors will receive pincode to access locked areas.
 ## Mobile App
 Now available on Huawei AppGallery!
 
-[Download App](https://appgallery.huawei.com/#/app/C102224447)
-![Explore it on AppGallery](https://raw.githubusercontent.com/enesinky/weboffauth/master/images/Badge-White.png)
+
+[![Explore it on AppGallery](https://raw.githubusercontent.com/enesinky/weboffauth/master/images/Badge-White.png)](https://appgallery.huawei.com/#/app/C102224447)
 
  - App provides authentication pin code to users. (valid for maximum 60
    seconds only!)
@@ -30,7 +30,7 @@ Now available on Huawei AppGallery!
 
 
 ## Architecture
-![enter image description here](https://raw.githubusercontent.com/enesinky/weboffauth/master/images/architecture_diag.png)
+[![Data Flow](https://raw.githubusercontent.com/enesinky/weboffauth/master/images/architecture_diag.png)](https://appgallery.huawei.com/#/app/C102224447)
 
 
 System consists of 2 parts: 
