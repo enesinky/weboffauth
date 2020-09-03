@@ -1,0 +1,6 @@
+# unnecessary dummy files
+sampleRequest.json
+time.php
+
+# hide classes
+classes/*
